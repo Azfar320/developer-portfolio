@@ -39,3 +39,30 @@ section{
     color: white;
     
 }
+
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+p{
+    color: dimgray;
+}
+
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 140px;
+}
+
+.dream-area p{
+    padding-right: 160px;
+}
+h2{
+    font-size: 280%;
+}
